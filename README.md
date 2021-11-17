@@ -1,7 +1,7 @@
 # **Malaria-Image-Classification**
 For  MATLAB Central File Exchange please visit [![View Malaria-Image-Classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/102114-malaria-image-classification)
 
-For GitHub Repo please visit [:octocat:](https://github.com/ummadiviany/Malaria-Image-Classification)
+For GitHub Repo please visit [:octocat: GitHub](https://github.com/ummadiviany/Malaria-Image-Classification)
 
 
 
