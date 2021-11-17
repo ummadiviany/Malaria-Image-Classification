@@ -35,7 +35,12 @@ Now the task is to classify the given input image into **prasatie** *or* **non-i
 :---------------------:|:-----------------------:|:----------------------------:|:----:|
 **Actual class = Parasite**| 13097| 682 | 13779
 **Actual class = Non-Infected**| 1840| 11939 | 13779
-**Total** |14937 | 12621 
+**Total** |14937 | 12621 | 27558
+
+```python
+Accuracy = (13097 + 11939) / 27558 = 0.9084
+```
+
 
 
 
