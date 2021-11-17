@@ -2,7 +2,9 @@
 For more detailed instructions please visit [![View Malaria-Image-Classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/102114-malaria-image-classification)
 
 ## Visualize Dataset
-Dataset can be downloaded from [Malarial Cell Images Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
+1. Dataset can be downloaded from [Malarial Cell Images Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria).
+
+2. Dataset consisits of 13780 parasited and 13780 non-infected images. A total of 27560 images are available in the dataset.
 
 Some examples of the dataset are shown below.
 |Image class|Image 1|Image 2|Image 3|Image 4|Image 5|
