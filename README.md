@@ -1,5 +1,9 @@
 # **Malaria-Image-Classification**
-For more detailed instructions please visit [![View Malaria-Image-Classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/102114-malaria-image-classification)
+For  MATLAB Central File Exchange please visit [![View Malaria-Image-Classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/102114-malaria-image-classification)
+
+For GitHub Repo please visit [:octocat:](https://github.com/ummadiviany/Malaria-Image-Classification)
+
+
 
 ## **Visualize dataset**
 1. Dataset can be downloaded from [Malarial Cell Images Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria).
