@@ -44,9 +44,17 @@ Now the task is to classify the given input image into **Malaria** *or* **Normal
 **Actual class = Non-Infected**| 1840| 11939 | 13779
 **Total** |14937 | 12621 | 27558 -->
 
-```python
 
-```
+| Metric | Value |
+|:------:|:-----:|
+**Accuracy**  | 91.97
+**Sensitivity** | 0.929
+**Specificity** | 0.910
+**Precision** | 0.912
+**Recall** | 0.929
+**F1-Score**| 0.920
+
+
 
 
 
