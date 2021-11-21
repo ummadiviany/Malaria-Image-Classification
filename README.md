@@ -36,6 +36,10 @@ Now the task is to classify the given input image into **Malaria** *or* **Normal
 
 ## **Results**
 
+| Metric | Accuracy |Sensitivity|Specificity|Precision|Recall|F1-Score|
+|:------:|:--------:|:---------:|:---------:|:-------:|:----:|:------:|
+**Metric Value**|**91.97**| 0.929|0.910|0.912| 0.929|0.920
+
 <img src=confusion_mat.png width="500" height="500">
 
 <!-- |                      |Predictd Class = Parasite|Predictd Class = Non-Infected| Total |
@@ -45,9 +49,6 @@ Now the task is to classify the given input image into **Malaria** *or* **Normal
 **Total** |14937 | 12621 | 27558 -->
 
 
-| Metric | Accuracy |Sensitivity|Specificity|Precision|Recall|F1-Score|
-|:------:|:--------:|:---------:|:---------:|:-------:|:----:|:------:|
-**Metric Value**|**91.97**| 0.929|0.910|0.912| 0.929|0.920
 
 
 
