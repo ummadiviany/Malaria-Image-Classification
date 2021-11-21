@@ -19,7 +19,7 @@ Some examples of the dataset are shown below.
 3. Purple regions can be easily observed in the parasite images which are not available in Non-Infected images.
 
 ## **Classification task**
-Now the task is to classify the given input image into **prasatie** *or* **non-infected** class.
+Now the task is to classify the given input image into **Malaria** *or* **Normal** class.
 
 ## **Methods**
 
