@@ -35,14 +35,17 @@ Now the task is to classify the given input image into **Malaria** *or* **Normal
 5 | If number of ones > thresold then Parasited else Non-Infected. Thresold = 100 pixels| No of ones  = 937, So **Parasited**
 
 ## **Results**
-|                      |Predictd Class = Parasite|Predictd Class = Non-Infected| Total |
+
+<img src=confusion_mat.png width="500" height="500">
+
+<!-- |                      |Predictd Class = Parasite|Predictd Class = Non-Infected| Total |
 :---------------------:|:-----------------------:|:----------------------------:|:----:|
 **Actual class = Parasite**| 13097| 682 | 13779
 **Actual class = Non-Infected**| 1840| 11939 | 13779
-**Total** |14937 | 12621 | 27558
+**Total** |14937 | 12621 | 27558 -->
 
 ```python
-Accuracy = (13097 + 11939) / 27558 = 0.9084
+
 ```
 
 
