@@ -32,7 +32,7 @@ Now the task is to classify the given input image into **Malaria** *or* **Normal
 3 | bw005 = Edge detection using *sobel* filter with thresold = 0.05|![](method1_steps/edge005.png)
 4 | Subtract bw from bw005|![](method1_steps/parasite.png)
 4 | Dilate the bw005-bw image with structuring element of disk with radius=5|![](method1_steps/dilated.png)
-5 | If number of ones > thresold then Parasited else Non-Infected. Thresold = 100 pixels| No of ones  = 937, So **Parasited**
+5 | If the area of the dilated image is than threshold then that images is classified as malarial infected sample.. Thresold = 100 | Area  = 937, So classified as **Malaria**.
 
 ## **Results**
 
