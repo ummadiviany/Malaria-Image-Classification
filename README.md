@@ -1,4 +1,5 @@
 # **Malaria-Image-Classification**
+### The below method is successfull in classifying Malarial/Normal samples with with **~92% accuracy**.
 For  MATLAB Central File Exchange please visit [![View Malaria-Image-Classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/102304-malaria-image-classification)
 
 For GitHub Repo please visit [:octocat: GitHub](https://github.com/ummadiviany/Malaria-Image-Classification)
@@ -23,7 +24,7 @@ Now the task is to classify the given input image into **Malaria** *or* **Normal
 
 ## **Methods**
 
-### **1. Gradient-based edge dectection and morphological operations for Malaria image classification**
+### **Gradient-based edge dectection and morphological operations for Malaria image classification**
 
 |Steps  |           Description                                 |                   Result                   |
 |:-----:|-----------------------------------------------------|:------------------------------------------:|
@@ -49,7 +50,14 @@ Below are results are obtained by performing classification on 13780 **Malaria**
 **Actual class = Non-Infected**| 1840| 11939 | 13779
 **Total** |14937 | 12621 | 27558 -->
 
+## **Prediction Results**
+### **Testing on Normal-class images**
+![](pred_normal.png)
+### **Testing on Malaria-class images**
+![](pred_malaria.png)
 
+## **Conclusions**
+The proposed method solves the malaria image classification problem with good accuracy. A lot of other advanced methods like use of Classifiers on top extracted feature using feature extraction and more advanced deep learning algorithms like Deep CNNs. But there is a trade-off between computaional effiecieny, time required to train & inferece. The proposed method solves the problem with least possible resources and time constraints with comparable accuracy to more sophisticated methods. 
 
 
 
